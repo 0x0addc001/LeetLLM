@@ -10,11 +10,18 @@
 
 #### 2.1.1 Self-Attention
 
-#### 2.1.2 Multi-Head Attention
+#### 2.1.2 Cross-Attention
 
-#### 2.1.3 Layer Norm
+- https://magazine.sebastianraschka.com/p/understanding-multimodal-llms
 
-#### 2.1.4 Positional Encoding
+  ![img](https://substackcdn.com/image/fetch/$s_!3PZD!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe4cc6f4-ca9a-431b-b572-95a1fda373a7_1508x1120.png)
+
+
+#### 2.1.3 Multi-Head Attention
+
+#### 2.1.4 Layer Norm
+
+#### 2.1.5 Positional Encoding
 
 ## 3. LLMs
 
